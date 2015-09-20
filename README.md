@@ -1,2 +1,2 @@
 # apache-storm
-Working application tested on HortonWorks Sandbox with functionality similat to mapreduce counterpart.
+Working application tested on HortonWorks Sandbox with functionality similar to mapreduce counterpart.
